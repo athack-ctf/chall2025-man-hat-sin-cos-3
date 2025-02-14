@@ -1,8 +1,7 @@
 # FLAGS
 
-- `ATHACKCTF{y0ur1stflagGoesHere}` 
-- `ATHACKCTF{y0ur2ndflagGoesHere}`
-- `...`
+- `ATHACKCTF{cafeorange}` 
+
 
 ## IMPORTANT
 Unless it's impossible or technically difficult, flags should follow the format `ATHACKCTF{__________}` 
