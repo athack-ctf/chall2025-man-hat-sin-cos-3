@@ -9,30 +9,27 @@
 
 ## Designer(s)
 
-- Ada Lovelace
-- Barbara Liskov
+- Oleander (Jeslyn)
 
 ## Description
 
-A high-level overview intended to clarify the concept and intuition behind the challenge, outlining its educational
-goals and the skills it aims to test in participants.
+Before leaving Dr. Dexter’s office you hear a notification sound coming from his computer. You look at the screen and notice an intriguing message. **IMAGE INCLUDED--Participants must download it**
 
-**IMPORTANT:** This description will **NOT** be shared with participants.
+You will know once you find the flag. This is an OSINT challenge; you will need to do some digging to find the flag. You will know once you find it (it follows the full ATHACK syntax).
+
+Hint 1: any information you find interesting is important and will lead you to the flag if you consider it wisely
+
+Hint 2: sharp deductive skills and patience are key 
+
+Hint 3: no special characters
+
+
 
 ## Category(ies)
 
-- `pwn`
-- `re`
-- `web`
-- `stegano`
-- `env`
-- `crypto`
+
 - `osint`
-- `web3`
-- `ai`
-- `android`
-- `auto`
-- `misc`
+
 
 ---
 
