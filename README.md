@@ -12,6 +12,7 @@
 - Oleander (Jeslyn)
 
 ## Description
+![image](https://github.com/user-attachments/assets/29ee12e4-e1e3-401e-be79-1df869f8401f)
 
 Before leaving Dr. Dexter’s office you hear a notification sound coming from his computer. You look at the screen and notice an intriguing message. **IMAGE INCLUDED--Participants must download it--Hugo can you plz add your high res file here :)) ty**
 
