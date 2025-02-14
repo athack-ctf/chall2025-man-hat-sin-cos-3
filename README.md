@@ -13,7 +13,7 @@
 
 ## Description
 
-Before leaving Dr. Dexter’s office you hear a notification sound coming from his computer. You look at the screen and notice an intriguing message. **IMAGE INCLUDED--Participants must download it**
+Before leaving Dr. Dexter’s office you hear a notification sound coming from his computer. You look at the screen and notice an intriguing message. **IMAGE INCLUDED--Participants must download it--Hugo can you plz add your high res file here :)) ty**
 
 You will know once you find the flag. This is an OSINT challenge; you will need to do some digging to find the flag. You will know once you find it (it follows the full ATHACK syntax).
 
