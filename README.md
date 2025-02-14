@@ -1,6 +1,7 @@
 # Chall - 🚹 🎩 sinθ/cosθ part 3
 
 > A brief description of the challenge
+> Goal is to use osint tools -- email lookup that gives you all accounts registered with the latter
 
 ## Type
 
