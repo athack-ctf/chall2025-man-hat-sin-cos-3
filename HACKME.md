@@ -1,10 +1,12 @@
-The description of your challenge as seen by participants in CTFd. Try to make it feel within the theme
-of the event...
+Before leaving Dr. Dexter’s office you hear a notification sound coming from his computer. You look at the screen and notice an intriguing message.
 
----
-If your challenge is a multi-flag one (i.e., it consists of a sequence of sub-challenges each rewarded with
-its own flag), requiring a different description for each sub-challenge, then have your descriptions split as 
-done with this paragraph, and the next one.
+You will know once you find the flag. This is an OSINT challenge; you will need to do some digging to find the flag. You will know once you find it (it follows the full ATHACK syntax).
+
+Hint 1: any information you find interesting is important and will lead you to the flag if you consider it wisely
+
+Hint 2: sharp deductive skills and patience are key 
+
+Hint 3: no special characters
 
 ---
 Obviously, for each sub-challenge, you should provide its flag value in [solution/FLAGS.md](solution/FLAGS.md).
