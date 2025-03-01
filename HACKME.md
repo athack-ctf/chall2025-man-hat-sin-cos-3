@@ -7,4 +7,4 @@ Hint 1: any information you find interesting is important and will lead you to t
 Hint 2: sharp deductive skills and patience are key 
 
 Hint 3: no special characters
-NOTE: the flag format is `ATHACKCTF{_}` where `_` is the name of the 
+NOTE: the flag format is `ATHACKCTF{_}` where `_` is the name of a place
