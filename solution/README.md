@@ -1,4 +1,4 @@
-# How to Solve the Challenge?
+# Solution
 
 ![image](https://github.com/user-attachments/assets/175daadc-4aa1-43cf-bb33-334c4ae6ae96)
 
@@ -7,14 +7,3 @@ leads you to the Facebook account
 
 You find the Blog
 ![image](https://github.com/user-attachments/assets/4fdec436-5f6d-446e-ac65-d68cb039bb94)
-
-
-
-Provide reproducible steps to solve the challenge. This can include:
-
-- Runnable code (e.g., `PoC.py`)
-- A Bash script or a sequence of commented commands
-- Well-explained instructions
-- ...
-
-Ensure that all dependencies required to build or run the solution are provided (e.g., `requirements.txt`) or thoroughly documented.
