@@ -14,7 +14,7 @@ description: |
 
     **NOTE**: the flag format is `ATHACKCTF{_}` where `_` is the name of the place.
 
-value: 0
+value: 100
 
 type: standard
 
