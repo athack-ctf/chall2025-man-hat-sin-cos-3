@@ -1,61 +1,51 @@
-# Chall - 🚹 🎩 sinθ/cosθ part 3
+# @HACK 2025: 🚹 🎩 $\frac{\sin{\theta}}{\cos{\theta}}$ [PART 3]
 
-> A brief description of the challenge
-> Goal is to use osint tools -- email lookup that gives you all accounts registered with the latter
+> Authored by [Jeslyn](https://github.com/JenLys).
 
-## Type
+- **Category**: `OSINT`
+- **Value**: `100 points`
 
-- [X] **OFF**line
-- [ ] **ON**line
+> Before leaving Dr. Dexter's office you hear a notification sound coming from his computer. You look at the screen and notice an intriguing message.
+> 
+> You will know once you find the flag. This is an OSINT challenge; you will need to do some digging to find the flag. You will know once you find it (it follows the full ATHACK syntax).
+> 
+> **Hint 1**: any information you find interesting is important and will lead you to the flag if you consider it wisely
+> 
+> **Hint 2**: sharp deductive skills and patience are key 
+> 
+> **Hint 3**: no special characters
+> 
+> **NOTE**: the flag format is `ATHACKCTF{_}` where `_` is the name of the place.
+> 
 
-## Designer(s)
+## Files
+- **[Download: dexter.png](https://github.com/athack-ctf/chall2025-man-hat-sin-cos-3/raw/refs/heads/main/offline-artifacts/dexter.png)**
 
-- Oleander (Jeslyn)
+## Reveal Flag
 
-## Description
-![image](https://github.com/user-attachments/assets/29ee12e4-e1e3-401e-be79-1df869f8401f)
+Did you try solving this challenge?
+<details>
+<summary>
+Yes
+</summary>
 
-Before leaving Dr. Dexter’s office you hear a notification sound coming from his computer. You look at the screen and notice an intriguing message. **IMAGE INCLUDED--Participants must download it--Hugo can you plz add your high res file here :)) ty**
+Did you **REALLY** try solving this challenge?
 
-You will know once you find the flag. This is an OSINT challenge; you will need to do some digging to find the flag. You will know once you find it (it follows the full ATHACK syntax).
+<details>
+<summary>
+Yes, I promise!
+</summary>
 
-Hint 1: any information you find interesting is important and will lead you to the flag if you consider it wisely
+Flag: `ATHACKCTF{cafeorange}`
 
-Hint 2: sharp deductive skills and patience are key 
-
-Hint 3: no special characters
-
-
-
-## Category(ies)
-
-
-- `osint`
+</details>
+</details>
 
 
 ---
 
-# Project Structure
+## About @HACK
+[@HACK](https://athackctf.com/) is an annual CTF (Capture The Flag) competition hosted by [HEXPLOIT ALLIANCE](https://hexploit-alliance.com/) and [TECHNATION](https://technationcanada.ca/) at Concordia University in Montreal, Canada.
 
-## 1. HACKME.md
-
-- **[HACKME.md](HACKME.md)**: A teaser or description of the challenge to be shared with participants (in CTFd).
-
-## 2. Source Code
-
-- **[source/README.md](source/README.md)**: Sufficient instructions for building your offline artifacts from source
-  code. If your project includes multiple subprojects, please consult us (Anis and Hugo).
-- **[source/*](source/)**: Your source code.
-
-## 3. Offline Artifacts
-
-- **[offline-artifacts/*](offline-artifacts/)**: All files (properly named) intended for local download by
-  participants (e.g., a binary executable for reverse engineering, a custom-encoded image, etc.). For large files (
-  exceeding 100 MB), please consult us (Anis and Hugo).
-
-## 4. Solution
-
-- **[solution/README.md](solution/README.md)**: A detailed writeup of the working solution.
-- **[solution/FLAGS.md](solution/FLAGS.md)**: A single markdown file listing all (up-to-date) flags.
-- **[solution/*](solution/)**: Any additional files or code necessary for constructing a reproducible solution for the
-  challenge (e.g., `PoC.py`, `requirement.txt`, etc.). 
+---
+[Check more challenges from @HACK 2025](https://github.com/athack-ctf/AtHackCTF-2025-Challenges).
